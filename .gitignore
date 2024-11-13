@@ -1,0 +1,11 @@
+**/node_modules
+
+**/.env
+**/.env.local
+**/.env.development
+**/.env.production
+
+backend/twitter/formyself.txt
+backend/twitter/temp1.txt
+backend/twitter/temp.js
+backend/twitter/config.js
